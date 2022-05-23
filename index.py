@@ -12,12 +12,10 @@ def funcao_principal():
   symbols="!@#$%&*?\/"
   use = mai + min + num + symbols
   password="".join(random.sample(use, int(linha)))
-
+  formulario.label_4.setText(linha2)
+  formulario.label_5.setText(password + "fdsafdsafsd:" )
 
   print(linha2, ":" , password)
-
-
-
 
 
 
