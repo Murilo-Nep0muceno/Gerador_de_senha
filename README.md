@@ -17,4 +17,8 @@ Você precisara de um bom editor de código como por exemplo o <a href="https://
 
 ### Bibliotecas baixadas <br>
   pip install PyQt5 PyQt-tools <br>
-  pip install random (porem essa muito provavel que essa ja venha instalada)
+  pip install random (porem essa muito provável que essa ja venha instalada)
+  
+  # Tecnologias usadas
+  
+   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
