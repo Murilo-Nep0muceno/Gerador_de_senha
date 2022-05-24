@@ -13,7 +13,7 @@ O projeto é um sistema para gerar senha de qualquer tamanho desejado, podera es
 </div>
 
 ## Pré-requisitos
-Você precisara de um bom editor de código como por exemplo o <a href="https://code.visualstudio.com/download">VSCode</a> por exemplo e também tera que instalar o <a href="https://www.python.org/">Python </a> <br>
+Você precisara de um bom editor de código como por exemplo o <a href="https://code.visualstudio.com/download">VSCode</a> e também tera que instalar o <a href="https://www.python.org/">Python </a> <br>
 
 ### Bibliotecas baixadas <br>
   pip install PyQt5 PyQt5-tools <br>
