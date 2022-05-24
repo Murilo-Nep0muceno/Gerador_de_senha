@@ -1,7 +1,8 @@
 # Gerador de senha
 
 ## Sobre
-O projeto é um sistema para gerar senha de qualquer tamanho desejado, podera escolher quantos caracteres terá e qual o nome da senha 
+O projeto é um sistema para gerar senha de qualquer tamanho desejado, podera escolher quantos caracteres terá e qual o nome da senha <br>
+
 **importante:** Projeto desenvolvido para fins de estudo!
 ## telas
 <div>
